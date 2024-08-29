@@ -70,4 +70,4 @@ For any inquiries or feedback, please contact me:
 - **LinkedIn**: [Ajay Patil's LinkedIn](https://www.linkedin.com/in/ajaypatil1993)
 
 ## Live Demo
-Check out the live demo of FinSight [here](https://your-username.github.io/FinSight).
+Check out the live demo of FinSight [here](https://finsight-app.netlify.app/).
